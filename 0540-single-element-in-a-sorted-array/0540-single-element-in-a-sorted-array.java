@@ -1,0 +1,22 @@
+class Solution
+{
+    public int singleNonDuplicate(int[] nums)
+    {
+        HashMap<Integer,Integer> hm = new HashMap<>();
+
+        for(int x : nums)
+        {
+            hm.put(x, hm.getOrDefault(x, 0) + 1);
+        }
+
+        for(int x : nums)
+        {
+            if(hm.get(x) == 1)
+            {
+                return x;
+            }
+        }
+
+        return -1;
+    }
+}
