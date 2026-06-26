@@ -6,6 +6,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -15,6 +16,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -28,4 +30,5 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
