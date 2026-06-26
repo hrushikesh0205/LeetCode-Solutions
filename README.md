@@ -24,4 +24,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
