@@ -19,6 +19,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -33,8 +34,10 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0007-reverse-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
