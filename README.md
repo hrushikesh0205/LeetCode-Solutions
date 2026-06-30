@@ -19,12 +19,14 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
