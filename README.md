@@ -30,6 +30,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
