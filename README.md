@@ -11,6 +11,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -20,6 +21,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -100,5 +103,6 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
