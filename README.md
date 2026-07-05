@@ -15,6 +15,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -110,4 +111,5 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
