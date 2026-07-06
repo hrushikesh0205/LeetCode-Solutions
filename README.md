@@ -11,6 +11,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0027-remove-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -28,6 +29,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -73,6 +75,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0001-two-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
