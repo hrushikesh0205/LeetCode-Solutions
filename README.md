@@ -21,6 +21,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0485-max-consecutive-ones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -68,6 +69,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0035-search-insert-position](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
