@@ -7,6 +7,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
