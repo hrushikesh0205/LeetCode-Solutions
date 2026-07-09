@@ -3,12 +3,12 @@ class Solution {
 
         int []freq=new int[26];
         char[]chars=s.toCharArray();
-        for(char c:chars)
+
+        for(char c: chars)
         {
             freq[c-'a']++;
-
         }
-        for(int i=0; i<chars.length;i++)
+        for(int i=0; i<chars.length; i++)
         {
             if(freq[chars[i]-'a']==1)
             {
