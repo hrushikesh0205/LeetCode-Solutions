@@ -70,6 +70,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0434-number-of-segments-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -107,6 +108,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
