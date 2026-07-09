@@ -6,12 +6,12 @@ class Solution {
 
        while(start<end)
        {
-          char temp=s[start];
-          s[start]=s[end];
-          s[end]=temp;
+         char temp=s[start];
+         s[start]=s[end];
+         s[end]=temp;
 
-          start++;
-          end--;
+         start++;
+         end--;
        }
 }
 }
