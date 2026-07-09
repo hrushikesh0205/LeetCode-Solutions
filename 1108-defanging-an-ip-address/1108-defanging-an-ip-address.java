@@ -2,10 +2,9 @@ class Solution {
     public String defangIPaddr(String address) {
         
         StringBuilder sb= new StringBuilder();
-        char[] chars=address.toCharArray();
-        for(char ch:chars)
+        for(char ch:address.toCharArray())
         {
-            if(ch == '.')
+            if(ch=='.')
             {
                 sb.append("[.]");
             }
@@ -15,5 +14,6 @@ class Solution {
             }
         }
         return sb.toString();
+
     }
 }
