@@ -67,6 +67,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0242-valid-anagram](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
