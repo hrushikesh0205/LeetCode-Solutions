@@ -5,9 +5,10 @@ class Solution {
         for(int i=0; i<nums.length; i++)
         {
             int count=target-nums[i];
+
             if(ab.containsKey(count))
             {
-                int []arr={ab.get(count),i};
+                int[]arr={ab.get(count),i};
                 return arr;
             }
             ab.put(nums[i],i);
