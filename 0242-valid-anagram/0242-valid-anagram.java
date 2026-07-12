@@ -12,6 +12,7 @@ class Solution {
           count[s.charAt(i)-'a']++;
           count[t.charAt(i)- 'a']--;
        }
+       
       for(int val :count)
       {
         if(val!=0)
