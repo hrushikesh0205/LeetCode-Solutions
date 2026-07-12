@@ -1,14 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-        int value=0;
+    int num=0;
 
-        for(int i=0; i<nums.length; i++)
-        {
-            value=value^nums[i];
-        }
-
-        return value;
-        
+    for(int i=0; i<nums.length; i++)
+    {
+        num=num^nums[i];
+    }
+    return num;
     }
 }
