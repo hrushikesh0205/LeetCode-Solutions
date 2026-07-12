@@ -3,7 +3,7 @@ class Solution {
         
         int count=0;
         int end=s.length()-1;
-        
+
         while(end>=0 && s.charAt(end)==' ')
         {
             end--;
@@ -14,5 +14,5 @@ class Solution {
             end--;
         }
         return count;
-    }
+}
 }
