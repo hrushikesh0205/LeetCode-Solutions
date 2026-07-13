@@ -19,6 +19,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0015-3sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -146,6 +149,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -181,4 +185,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0584-find-customer-referee](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
