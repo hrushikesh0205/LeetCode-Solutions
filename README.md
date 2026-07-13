@@ -179,5 +179,6 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
