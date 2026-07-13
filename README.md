@@ -176,4 +176,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0136-single-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
