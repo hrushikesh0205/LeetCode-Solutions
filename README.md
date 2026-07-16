@@ -14,6 +14,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0033-search-in-rotated-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -63,6 +65,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0015-3sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
