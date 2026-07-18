@@ -78,6 +78,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -214,6 +215,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
