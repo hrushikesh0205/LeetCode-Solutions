@@ -90,6 +90,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -226,4 +227,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
