@@ -37,6 +37,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -108,6 +109,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -143,6 +145,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
