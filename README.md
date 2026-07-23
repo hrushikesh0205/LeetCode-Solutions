@@ -169,6 +169,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -297,4 +298,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
