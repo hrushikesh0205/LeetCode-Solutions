@@ -36,6 +36,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -145,6 +147,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
@@ -206,6 +209,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
