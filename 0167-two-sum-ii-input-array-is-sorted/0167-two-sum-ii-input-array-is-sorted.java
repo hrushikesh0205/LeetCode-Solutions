@@ -6,20 +6,21 @@ class Solution {
 
         while(left<right)
         {
-            int sum=numbers[left]+numbers[right];
-            if(sum==target)
+            int count=numbers[left]+numbers[right];
+            if(count==target)
             {
-                return new int[] {left+1,right+1};
+                return  new int[]{left+1,right+1};
             }
-            else if(sum>target)
-            {
-                right --;
-            }
-            else
+            else if(count<target)
             {
                 left++;
             }
+            else
+            {
+                right--;
+            }
         }
+
         return new int[]{-1,-1};
 }
 }
