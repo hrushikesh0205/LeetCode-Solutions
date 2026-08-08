@@ -86,6 +86,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -180,6 +182,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
