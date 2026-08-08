@@ -7,21 +7,21 @@ class Solution {
 
     while(start<end)
     {
-       while(start< end  && !Character.isLetterOrDigit(s.charAt(start)))
-       {
-           start++;
-       }
-         while(start< end && !Character.isLetterOrDigit(s.charAt(end)))
-       {
-           end--;
-       }
-       if(s.charAt(start)!=s.charAt(end))
-       {
-           return false;
-       }
-       start++;
-       end--;
+        while(start<end && !Character.isLetterOrDigit(s.charAt(start)))
+        {
+            start++;
+        }
+        while(start<end && !Character.isLetterOrDigit(s.charAt(end)))
+        {
+            end--;
+        }
+        if(s.charAt(start)!=s.charAt(end))
+        {
+            return false;
+        }
+        start++;
+        end--;
     }
-    return true;
+    return true; 
 }
 }
