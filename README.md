@@ -106,6 +106,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0709-to-lower-case](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -174,6 +175,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -264,6 +266,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0144-binary-tree-preorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Z Algorithm
 |  |
 | ------- |
