@@ -72,6 +72,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -91,6 +92,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -182,6 +184,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -353,4 +356,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
