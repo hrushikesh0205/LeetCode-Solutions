@@ -104,6 +104,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0434-number-of-segments-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -276,6 +277,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Tree
 |  |
@@ -340,12 +342,15 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
