@@ -139,6 +139,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -196,6 +197,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
