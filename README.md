@@ -116,6 +116,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0796-rotate-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -173,6 +174,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0560-subarray-sum-equals-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
