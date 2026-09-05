@@ -94,6 +94,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
