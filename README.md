@@ -154,6 +154,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -356,6 +357,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0234-palindrome-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
 | ------- |
