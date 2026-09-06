@@ -210,6 +210,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -354,6 +355,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
