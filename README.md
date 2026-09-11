@@ -403,4 +403,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
