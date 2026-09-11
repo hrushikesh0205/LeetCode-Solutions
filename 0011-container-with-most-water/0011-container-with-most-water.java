@@ -4,7 +4,7 @@ class Solution {
     int left=0;
     int right=height.length-1;
     int maxwater=0;
-
+    
     while(left<right)
     {
         int currentwater=Math.min(height[left],height[right])*(right-left);
@@ -19,5 +19,6 @@ class Solution {
         }
     }
     return maxwater;
+
 }
 }
