@@ -2,7 +2,7 @@ class Solution {
 
     public void sortColors(int[] nums) {
 
-        int start=0; 
+        int start=0;
         int mid=0;
         int end=nums.length-1;
 
