@@ -1,6 +1,6 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-     int left = 0;
+        int left = 0;
         int right = 0;
         int zeroCount = 0;
         int max = 0;
