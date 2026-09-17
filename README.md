@@ -47,6 +47,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0713-subarray-product-less-than-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -102,6 +104,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
