@@ -35,6 +35,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0229-majority-element-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -100,6 +101,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -147,6 +149,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -278,6 +281,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0136-single-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -416,6 +420,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -424,4 +429,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
