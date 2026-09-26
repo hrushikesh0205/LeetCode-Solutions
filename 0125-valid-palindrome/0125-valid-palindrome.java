@@ -15,6 +15,7 @@ class Solution {
         {
             end--;
         }
+
         if(s.charAt(start)!=s.charAt(end))
         {
             return false;
@@ -22,6 +23,6 @@ class Solution {
         start++;
         end--;
     }
-    return true; 
+    return true;
 }
 }
