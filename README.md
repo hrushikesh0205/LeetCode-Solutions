@@ -126,6 +126,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0242-valid-anagram](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -192,6 +193,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0242-valid-anagram](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -207,6 +209,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
