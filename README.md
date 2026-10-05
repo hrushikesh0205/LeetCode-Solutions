@@ -64,6 +64,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [2089-find-target-indices-after-sorting-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0922-sort-array-by-parity-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0974-subarray-sums-divisible-by-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,10 +258,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0229-majority-element-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -443,4 +449,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
