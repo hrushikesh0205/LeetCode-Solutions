@@ -16,6 +16,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -170,6 +171,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -460,4 +462,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | ------- |
 | [0456-132-pattern](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
