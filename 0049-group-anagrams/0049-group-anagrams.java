@@ -7,7 +7,7 @@ class Solution {
         {
             int[]count= new int[26];
 
-            for(char ch: str.toCharArray())
+            for(char ch:str.toCharArray())
             {
                 count[ch-'a']++;
             }
@@ -16,8 +16,9 @@ class Solution {
 
             if(!ab.containsKey(key))
             {
-                ab.put(key, new ArrayList<>());
+                ab.put(key,new ArrayList<>());
             }
+
             ab.get(key).add(str);
         }
         return new ArrayList<>(ab.values());
