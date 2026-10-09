@@ -1,7 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-
-    int left=0;
+    
+    int left=0; 
     int right=0;
     int max=0;
 
@@ -11,8 +11,8 @@ class Solution {
     {
         if(ab.contains(s.charAt(right)))
         {
-            ab.remove(s.charAt(left));
-            left++;
+           ab.remove(s.charAt(left));
+           left++;
         }
         else
         {
