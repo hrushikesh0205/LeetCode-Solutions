@@ -1,13 +1,13 @@
 class Solution {
     public boolean isValid(String s) {
     
-    Stack<Character>ab=new Stack<>();
-    char[]nums=s.toCharArray();
-    for(int i=0; i<nums.length; i++)
+    Stack<Character>ab= new Stack<>();
+    char[]val=s.toCharArray();
+    for(int i=0; i<val.length; i++)
     {
-        if(nums[i]=='(' || nums[i]=='{'|| nums[i]=='[')
+        if(val[i]=='(' || val[i]=='[' || val[i]=='{')
         {
-            ab.push(nums[i]);
+            ab.push(val[i]);
         }
         else
         {
@@ -16,14 +16,15 @@ class Solution {
                 return false;
             }
 
-        char top=ab.pop();
-             if((nums[i]==')' && top!='(') ||
-               (nums[i]=='}' && top!='{') ||
-               (nums[i]==']' && top!='['))
-               {
-                return false;
-               }
+            char top=ab.pop();
+            if((val[i]==')' && top!='(') ||
+                 (val[i]=='}' && top!='{') ||
+                 (val[i]==']' && top!='['))
+                 {
+                    return false;
+                 }
         }
+        
     }
     return ab.isEmpty();
     }
