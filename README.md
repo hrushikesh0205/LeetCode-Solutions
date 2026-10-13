@@ -334,6 +334,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0144-binary-tree-preorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -466,4 +467,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
