@@ -175,6 +175,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0050-powx-n](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -238,6 +239,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0005-longest-palindromic-substring](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -252,6 +254,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
