@@ -39,6 +39,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0268-missing-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -241,6 +242,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Recursion
@@ -407,6 +409,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Linked List
 |  |
 | ------- |
@@ -490,4 +493,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0450-delete-node-in-a-bst](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
