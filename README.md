@@ -23,6 +23,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0075-sort-colors](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -194,6 +195,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0001-two-sum](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -328,6 +330,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
@@ -366,6 +369,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0101-symmetric-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -396,6 +400,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms pr
 | [0101-symmetric-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrushikesh0205/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
